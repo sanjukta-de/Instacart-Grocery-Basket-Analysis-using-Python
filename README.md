@@ -1,5 +1,5 @@
 # Instacart Grocery Basket Analysis (using Python)
-![picture of a supermarket](https://cdn.pixabay.com/photo/2017/08/10/07/20/grocery-store-2619380_1280.jpg)
+
 ## Company Profile:
 Instacart is an American delivery company based in San Francisco that operates a grocery delivery and pick-up service in the United States and Canada accessible via a website and mobile app. It allows customers to order groceries from participating retailers with the shopping being done by a personal shopper.It has partnerships with 1,400 retail banners comprising 80,000 stores.
 _Note: Instacart is a real company that’s made their data available online. However, the contents of this project have been fabricated for the purpose of learning._
